@@ -82,6 +82,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		ED2066C1289FED6B008306F7 /* MatrixFaceImageView */ = {
+			isa = PBXGroup;
+			children = (
+				ED2066BD289FD1AD008306F7 /* FallingCharacterView.swift */,
+				ED2066BB289FD0DC008306F7 /* MatrixFaceImageView.swift */,
+				ED2066BF289FD298008306F7 /* String+RandomElement.swift */,
+			);
+			path = MatrixFaceImageView;
+			sourceTree = "<group>";
+		};
 		ED210704289F7461005BD785 = {
 			isa = PBXGroup;
 			children = (
@@ -108,9 +118,7 @@
 				ED210710289F7461005BD785 /* AppDelegate.swift */,
 				ED210712289F7461005BD785 /* SceneDelegate.swift */,
 				ED210714289F7461005BD785 /* ViewController.swift */,
-				ED2066BB289FD0DC008306F7 /* MatrixFaceImageView.swift */,
-				ED2066BD289FD1AD008306F7 /* FallingCharacterView.swift */,
-				ED2066BF289FD298008306F7 /* String+RandomElement.swift */,
+				ED2066C1289FED6B008306F7 /* MatrixFaceImageView */,
 				ED210716289F7461005BD785 /* Main.storyboard */,
 				ED210719289F7462005BD785 /* Assets.xcassets */,
 				ED21071B289F7462005BD785 /* LaunchScreen.storyboard */,
