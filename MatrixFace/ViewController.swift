@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        matrixFaceImageView.startEffect()
+        matrixFaceImageView.startMatrixEffect()
     }
 }
 
