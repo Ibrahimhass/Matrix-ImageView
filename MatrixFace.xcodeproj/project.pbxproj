@@ -16,6 +16,9 @@
 		ED210728289F7462005BD785 /* MatrixFaceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED210727289F7462005BD785 /* MatrixFaceTests.swift */; };
 		ED210732289F7462005BD785 /* MatrixFaceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED210731289F7462005BD785 /* MatrixFaceUITests.swift */; };
 		ED210734289F7462005BD785 /* MatrixFaceUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED210733289F7462005BD785 /* MatrixFaceUITestsLaunchTests.swift */; };
+		ED210743289F7483005BD785 /* FallingCharacterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED210740289F7483005BD785 /* FallingCharacterView.swift */; };
+		ED210744289F7483005BD785 /* MatrixFaceImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED210741289F7483005BD785 /* MatrixFaceImageView.swift */; };
+		ED210745289F7483005BD785 /* String+RandomString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED210742289F7483005BD785 /* String+RandomString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		ED21072D289F7462005BD785 /* MatrixFaceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MatrixFaceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED210731289F7462005BD785 /* MatrixFaceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatrixFaceUITests.swift; sourceTree = "<group>"; };
 		ED210733289F7462005BD785 /* MatrixFaceUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatrixFaceUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		ED210740289F7483005BD785 /* FallingCharacterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FallingCharacterView.swift; sourceTree = "<group>"; };
+		ED210741289F7483005BD785 /* MatrixFaceImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MatrixFaceImageView.swift; sourceTree = "<group>"; };
+		ED210742289F7483005BD785 /* String+RandomString.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+RandomString.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +108,9 @@
 				ED210710289F7461005BD785 /* AppDelegate.swift */,
 				ED210712289F7461005BD785 /* SceneDelegate.swift */,
 				ED210714289F7461005BD785 /* ViewController.swift */,
+				ED210740289F7483005BD785 /* FallingCharacterView.swift */,
+				ED210741289F7483005BD785 /* MatrixFaceImageView.swift */,
+				ED210742289F7483005BD785 /* String+RandomString.swift */,
 				ED210716289F7461005BD785 /* Main.storyboard */,
 				ED210719289F7462005BD785 /* Assets.xcassets */,
 				ED21071B289F7462005BD785 /* LaunchScreen.storyboard */,
@@ -260,6 +269,9 @@
 			files = (
 				ED210715289F7461005BD785 /* ViewController.swift in Sources */,
 				ED210711289F7461005BD785 /* AppDelegate.swift in Sources */,
+				ED210743289F7483005BD785 /* FallingCharacterView.swift in Sources */,
+				ED210744289F7483005BD785 /* MatrixFaceImageView.swift in Sources */,
+				ED210745289F7483005BD785 /* String+RandomString.swift in Sources */,
 				ED210713289F7461005BD785 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
