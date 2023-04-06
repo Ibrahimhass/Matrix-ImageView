@@ -1,5 +1,5 @@
-# MatrixFaceImageView
-Create the matrix faces animation
+# Matrix-ImageView
+Create the matrix animation for any image.
 
 ## Inspiration 
 This project is inspired by [matrix-faces](https://github.com/servetgulnaroglu/matrix-faces).
@@ -14,4 +14,4 @@ Since I could not find a Swift implementation online. I coded it as a fun exerci
 [watch](https://user-images.githubusercontent.com/16992520/183276166-26076113-662c-4ee2-b43c-014ffa61b7aa.mp4)
 
 ## License
-`MatrixFaceImageView` is distributed under the terms and conditions of the  [MIT license](https://github.com/Ibrahimhass/MatrixFaceImageView/blob/main/LICENSE). 
+`Matrix-ImageView` is distributed under the terms and conditions of the  [MIT license](https://github.com/Ibrahimhass/Matrix-ImageView/blob/main/LICENSE). 
